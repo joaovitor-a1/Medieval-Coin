@@ -56,7 +56,7 @@ O jogador controla um cavaleiro através de 4 fases com obstáculos, plataformas
 
 ---
 
-## 📚 Conexão entre Teoria e Prática
+##  Conexão entre Teoria e Prática
 
 * **Física 2D:** A gravidade do `Rigidbody2D` combinada com o `Physics2D.OverlapCircle` no ponto `groundCheck` garante um salto preciso e responsivo, evitando pulos duplos acidentais ou sensação de flutuação.
 * **Curva de Aprendizagem:** As 4 fases foram projetadas com progressão natural — apresentando mecânicas em ambientes seguros antes de combinar perigos dinâmicos e zonas de queda livre.
