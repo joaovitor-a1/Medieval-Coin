@@ -107,3 +107,5 @@ Assets/
 3. Selecione a pasta do projeto;
 4. Na aba project, navegue até Assets/Scenes;
 5. Selecione a fase desejada e clique em Play.
+
+Ou clique em Releases no repositório e baixe a pasta compactada, extraia os arquivos e execute o arquivo MedievalCoin.
